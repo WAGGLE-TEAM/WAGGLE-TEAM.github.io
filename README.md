@@ -1,2 +1,2 @@
-# WAGGLE-TEAM.github.io
-Team Wiki ✨
+### Team Wiki ✨
+https://waggle-team.github.io/
